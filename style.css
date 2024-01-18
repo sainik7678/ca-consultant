@@ -104,7 +104,10 @@ footer{
     }
 }
 @media screen and (max-width:450px ) {
-    
+     ul{
+        font-size: 25px;
+        
+    }
     
     .col-p-12{
         flex-basis: 100%; max-width: 100%
